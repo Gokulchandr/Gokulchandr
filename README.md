@@ -4,7 +4,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+<div align="center">
+  <img src="https://media4.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47y4kt2wmy52ri2yqqycz8omma95txwyb4e0qfxrim&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulchandr&label=Profile%20views&color=0e75b6&style=flat" alt="gokulchandr" /> </p>
 
 - 🌱 I’m currently learning **Python,C,HTML,CSS,PHP,JavaScript**
