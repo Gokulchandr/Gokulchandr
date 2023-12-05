@@ -1,4 +1,4 @@
-![logo](https://github.com/Gokulchandr/Gokulchandr/blob/main/gok.png)
+[![MasterHead](https://drive.google.com/file/d/1d5D8E7bjApdOreyK8l0dT9TwmoT_J4HZ/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Gokul R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div id="header" align="center">
