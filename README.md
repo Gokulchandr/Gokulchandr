@@ -1,6 +1,7 @@
+![logo](https://github.com/Gokulchandr/Gokulchandr/blob/main/gok.png)
 <h1 align="center">Hi 👋, I'm Gokul R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Gokulchandr/Gokulchandr/blob/main/avento.gif"
+<img align="right" alt="coding" width="400" src="https://github.com/Gokulchandr/Gokulchandr/blob/main/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulchandr&label=Profile%20views&color=0e75b6&style=flat" alt="gokulchandr" /> </p>
 
