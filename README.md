@@ -1,6 +1,6 @@
 [![MasterHead](https://drive.google.com/file/d/1d5D8E7bjApdOreyK8l0dT9TwmoT_J4HZ/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Gokul R</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -9,15 +9,15 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulchandr&label=Profile%20views&color=0e75b6&style=flat" alt="gokulchandr" /> </p>
 
-- 🌱 I’m currently learning **Python,C,HTML,CSS,PHP,JavaScript**
+- 🌱 I’m currently learning **Python,C,HTML,CSS,Django,Kivy**
 
 - 👨‍💻 All of my projects are available at [https://gokulchandr.github.io/Myportfolio.github.io/](https://gokulchandr.github.io/Myportfolio.github.io/)<br>
 Profile Card💳:[https://gokulchandr.github.io/profilecard/](https://gokulchandr.github.io/profilecard/)
-- 💬 Ask me about **Python,HTML,CSS,PHP**
+- 💬 Ask me about **Python,HTML,CSS,C,Tkinter,Flask**
 
 - 📫 How to reach me **gokulravi0023@gmail.com**
 
-- ⚡ Fun fact **I Think I'm Funny**
+- ⚡ Fun fact **who make an impact in development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
